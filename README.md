@@ -65,7 +65,20 @@ JSON file. It takes into account the bounding box coordinates and saves the box 
 
 
 
+## If you decide for Citation 
 
+```code
+cff-version: 1.0.0
+message: "If you use this software by referencing my notebook, please cite it as below."
+authors:
+- family-names: "Sahoo"
+  given-names: "Shashank"
+title: "OCR all in one Software"
+version: 1.0.4
+date-released: 2023-08-08
+url: "https://github.com/Shashank545/OCR_all_in_one"
+
+```
 
 
 
